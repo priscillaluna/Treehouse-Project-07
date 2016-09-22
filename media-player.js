@@ -151,7 +151,6 @@ var transcript = [
     "text": "A few common residential modems are DSL or--"}
 ];
 
-
 function prep_transcript() { // put text in transcript
   var temp;
   for (var i = 0; i < transcript.length; i++) {
